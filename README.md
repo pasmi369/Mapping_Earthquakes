@@ -1,1 +1,2 @@
 # Mapping_Earthquakes
+- This project uses data provided by U.S.Geological Survey (usgs.gov) to show a visual repersentation of all of the earthquakes on the planet over the last 7 days. - This project was created using Javascript's Leaflet, D3 libraries and Mapbox's API, and GeoJson data from usgs.gov. The final product is in the Earthquake_Challenge folder ( https://github.com/pasmi369/Mapping_Earthquake_Challenge ). Please enjoy!
