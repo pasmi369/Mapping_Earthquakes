@@ -15,12 +15,16 @@
 
 ## Results (Map Views)
 - ### Streets View
-![streets_view](./Resources/streets_tectonic_earthquakes.png)
+![streets_view](./Earthquake_Challenge/Resources/streets_tectonic_earthquakes.png)
 - ### Satellite View
-![satellite_view](./Resources/satellite_view.png)
+![satellite_view](./Earthquake_Challenge/Resources/satellite_view.png)
 - ### Streets Major Earthquakes View
-![streets_major_earthquakes](./Resources/streets_major_earthquakes.png)
+![streets_major_earthquakes](./Earthquake_Challenge/Resources/streets_major_earthquakes.png)
 - ### Dark View
-![dark_view](./Resources/dark_view.png)
+![dark_view](./Earthquake_Challenge/Resources/dark_view.png)
 - ### Light View
-![light_view](./Resources/light_view.png)
+![light_view](./Earthquake_Challenge/Resources/light_view.png)
+- ### Earthquake Data(Magnitude of 4.65)
+![earthquake_data](./Earthquake_Challenge/Resources/earthquake_data.png)
+
+
