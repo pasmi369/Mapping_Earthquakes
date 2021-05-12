@@ -24,3 +24,7 @@
 ![dark_view](./Earthquake_Challenge/Resources/dark_view.png)
 - ### Light View
 ![light_view](./Earthquake_Challenge/Resources/light_view.png)
+- ### Earthquake Data(Magnitude of 4.65)
+![earthquake_data](./Earthquake_Challenge/Resources/earthquake_data.png)
+
+
